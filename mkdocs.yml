@@ -1,6 +1,6 @@
 site_name: sleap-nn documentation
-site_url: https://nn.sleap.ai/
-repo_url: https://github.com/talmolab/sleap-nn
+site_url: https://jaw039.github.io/sleap-nn/
+repo_url: https://github.com/jaw039/sleap-nn
 
 theme:
   name: material
